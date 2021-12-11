@@ -11,4 +11,4 @@ https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/
 https://tamas.lahzenegar.com/docs
 
 3. Something else?!
-technical@lahzenegar.com
+technical -atsign- lahzenegar.com
